@@ -2,7 +2,7 @@
 - 👀 I’m interested in doing adventure things.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on ML Projects.
-- 📫 How to reach me my e-mail - iparshantsaini@gmail.com
+- 📫 How to reach me my e-mail - sainiparshant198@gmail.com
 
 <!---
 theparshant/theparshant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
